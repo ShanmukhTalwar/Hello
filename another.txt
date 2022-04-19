@@ -1,9 +1,8 @@
-hi i am edited by shanmukh
+fully edited
 
-<<<<<<< HEAD
+,.
+,.
+.
 
-hi
-ji
-=======
-hi 
->>>>>>> 13840075ace16588bd95f1de70fe06e5bad4da63
+---------
+==-=-
